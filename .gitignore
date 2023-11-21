@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+/bin
+/lib
+/share
+tidp/__pycache__/__init__.cpython-38.pyc
+tidp/__pycache__/dataloader.cpython-38.pyc
+tidp/__pycache__/decoder.cpython-38.pyc
+tidp/__pycache__/dyn_tokenizer.cpython-38.pyc
+tidp/__pycache__/encoder.cpython-38.pyc
+tidp/__pycache__/tidp.cpython-38.pyc
+tidp/__pycache__/tokenizer.cpython-38.pyc
+pyvenv.cfg
