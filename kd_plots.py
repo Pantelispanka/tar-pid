@@ -36,12 +36,19 @@ for index, row in df_screened.iterrows():
     mean = values.mean()
     screened_means.append(mean)
 
+
+sns.set(font_scale=1.5)
+
 fig, ax = plt.subplots(figsize=(12, 6))
 sns.kdeplot(data=naive_means,
             color='crimson', label='Naive docking mean energies', fill=True, ax=ax)
 sns.kdeplot(data=screened_means,
             color='limegreen', label='Screened ligands mean energies', fill=True, ax=ax)
 ax.legend()
+
+
+plt.xlabel('ΔG_b (kcal/mol)', fontsize=12)
+plt.ylabel('Distribution', fontsize=12)
 
 plt.tight_layout()
 plt.savefig('./kd_plots.png')

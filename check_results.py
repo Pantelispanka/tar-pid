@@ -107,11 +107,15 @@ import matplotlib.pyplot as plt
 
 plt.bar(list(naive.keys()), naive.values(), color='g')
 
+plt.xlabel("Binding sites interaction")
+plt.ylabel("Number of molecules")
+
 plt.savefig('./naive.png')
 
 plt.clf()
 
 plt.bar(list(screened.keys()), screened.values(), color='g')
-
+plt.xlabel("Binding sites interaction")
+plt.ylabel("Number of molecules")
 
 plt.savefig('./screened.png')
