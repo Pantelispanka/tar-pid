@@ -1,0 +1,554 @@
+# pyKVFinder results
+
+[FILES]
+INPUT = "/Users/fdn/Documents/Uni/Euclia/AR-V7/bs_docking/data/8_a.pdb"
+OUTPUT = "/Users/fdn/Documents/Uni/Euclia/AR-V7/bs_docking/cavities/cavity_8_a.pdb"
+
+[PARAMETERS]
+STEP = 0.6
+
+[RESULTS.VOLUME]
+KAA = 9.5
+KAB = 68.47
+KAC = 21.38
+KAD = 169.78
+KAE = 5.4
+KAF = 7.99
+KAG = 154.44
+KAH = 9.29
+KAI = 212.11
+KAJ = 115.99
+KAK = 100.22
+KAL = 222.26
+KAM = 17.28
+KAN = 15.55
+KAO = 58.32
+KAP = 125.06
+KAQ = 10.15
+KAR = 8.86
+KAS = 5.62
+KAT = 12.1
+KAU = 147.1
+KAV = 66.96
+
+[RESULTS.AREA]
+KAA = 17.61
+KAB = 82.69
+KAC = 29.82
+KAD = 141.56
+KAE = 11.94
+KAF = 15.61
+KAG = 141.37
+KAH = 17.68
+KAI = 208.76
+KAJ = 82.85
+KAK = 75.41
+KAL = 169.25
+KAM = 18.33
+KAN = 27.91
+KAO = 82.93
+KAP = 131.41
+KAQ = 16.17
+KAR = 16.39
+KAS = 11.65
+KAT = 11.81
+KAU = 111.21
+KAV = 52.28
+
+[RESULTS.MAX_DEPTH]
+KAA = 1.2
+KAB = 1.2
+KAC = 1.34
+KAD = 2.75
+KAE = 0.85
+KAF = 1.2
+KAG = 2.94
+KAH = 1.34
+KAI = 2.68
+KAJ = 1.34
+KAK = 1.99
+KAL = 3.23
+KAM = 0.85
+KAN = 0.85
+KAO = 2.55
+KAP = 3.0
+KAQ = 0.6
+KAR = 0.6
+KAS = 0.6
+KAT = 0.6
+KAU = 2.16
+KAV = 1.34
+
+[RESULTS.AVG_DEPTH]
+KAA = 0.34
+KAB = 0.36
+KAC = 0.42
+KAD = 0.96
+KAE = 0.23
+KAF = 0.36
+KAG = 0.83
+KAH = 0.49
+KAI = 0.69
+KAJ = 0.25
+KAK = 0.56
+KAL = 0.86
+KAM = 0.16
+KAN = 0.29
+KAO = 1.12
+KAP = 0.76
+KAQ = 0.09
+KAR = 0.19
+KAS = 0.18
+KAT = 0.13
+KAU = 0.72
+KAV = 0.22
+
+[RESULTS.AVG_HYDROPATHY]
+KAA = 0.29
+KAB = 0.36
+KAC = -0.54
+KAD = 0.84
+KAE = 1.52
+KAF = -0.29
+KAG = 0.42
+KAH = -0.37
+KAI = -0.23
+KAJ = -0.27
+KAK = -0.33
+KAL = 0.23
+KAM = -0.63
+KAN = -0.2
+KAO = 0.37
+KAP = 0.7
+KAQ = 0.93
+KAR = -0.22
+KAS = -1.08
+KAT = 0.8
+KAU = -0.24
+KAV = 0.06
+EisenbergWeiss = [ -1.42, 2.6,]
+
+[RESULTS.RESIDUES]
+KAA = [ [ "634", "A", "GLY",], [ "635", "A", "ASN",], [ "636", "A", "CYS",], [ "638", "A", "HIS",], [ "639", "A", "LEU",], [ "640", "A", "LYS",], [ "641", "A", "MET",],]
+KAB = [ [ "544", "A", "ARG",], [ "545", "A", "ASP",], [ "546", "A", "HIS",], [ "547", "A", "VAL",], [ "548", "A", "LEU",], [ "554", "A", "PHE",], [ "555", "A", "PRO",], [ "556", "A", "PRO",], [ "557", "A", "GLN",], [ "558", "A", "LYS",], [ "559", "A", "THR",], [ "564", "A", "GLY",], [ "565", "A", "ASP",], [ "566", "A", "GLU",], [ "606", "A", "LYS",],]
+KAC = [ [ "573", "A", "GLY",], [ "623", "A", "ALA",], [ "624", "A", "GLY",], [ "625", "A", "MET",], [ "626", "A", "THR",], [ "631", "A", "PHE",], [ "635", "A", "ASN",], [ "636", "A", "CYS",],]
+KAD = [ [ "529", "A", "ASP",], [ "530", "A", "SER",], [ "531", "A", "TYR",], [ "533", "A", "GLY",], [ "534", "A", "PRO",], [ "535", "A", "TYR",], [ "539", "A", "ARG",], [ "544", "A", "ARG",], [ "565", "A", "ASP",], [ "566", "A", "GLU",], [ "577", "A", "CYS",], [ "578", "A", "GLY",], [ "579", "A", "SER",], [ "606", "A", "LYS",], [ "609", "A", "ARG",], [ "610", "A", "LYS",],]
+KAE = [ [ "540", "A", "LEU",], [ "541", "A", "GLU",], [ "542", "A", "THR",], [ "543", "A", "ALA",], [ "544", "A", "ARG",], [ "607", "A", "PHE",],]
+KAF = [ [ "596", "A", "CYS",], [ "597", "A", "ALA",], [ "598", "A", "SER",], [ "602", "A", "CYS",], [ "611", "A", "ASN",], [ "612", "A", "CYS",], [ "613", "A", "PRO",],]
+KAG = [ [ "525", "A", "GLY",], [ "526", "A", "PRO",], [ "527", "A", "TRP",], [ "528", "A", "MET",], [ "529", "A", "ASP",], [ "530", "A", "SER",], [ "578", "A", "GLY",], [ "579", "A", "SER",], [ "582", "A", "VAL",], [ "583", "A", "PHE",], [ "586", "A", "ARG",], [ "594", "A", "TYR",], [ "609", "A", "ARG",], [ "610", "A", "LYS",], [ "613", "A", "PRO",], [ "616", "A", "ARG",],]
+KAH = [ [ "488", "A", "GLN",], [ "490", "A", "LEU",], [ "491", "A", "ALA",], [ "492", "A", "GLY",], [ "493", "A", "GLN",], [ "494", "A", "GLU",], [ "503", "A", "TRP",], [ "504", "A", "TYR",],]
+KAI = [ [ "424", "A", "SER",], [ "425", "A", "GLY",], [ "426", "A", "SER",], [ "438", "A", "LEU",], [ "439", "A", "PHE",], [ "440", "A", "THR",], [ "493", "A", "GLN",], [ "494", "A", "GLU",], [ "495", "A", "SER",], [ "496", "A", "ASP",], [ "497", "A", "PHE",], [ "498", "A", "THR",], [ "499", "A", "ALA",], [ "500", "A", "PRO",], [ "501", "A", "ASP",], [ "502", "A", "VAL",], [ "503", "A", "TRP",], [ "504", "A", "TYR",], [ "505", "A", "PRO",], [ "508", "A", "MET",], [ "509", "A", "VAL",], [ "510", "A", "SER",], [ "511", "A", "ARG",],]
+KAJ = [ [ "425", "A", "GLY",], [ "426", "A", "SER",], [ "427", "A", "PRO",], [ "428", "A", "SER",], [ "429", "A", "ALA",], [ "430", "A", "ALA",], [ "431", "A", "ALA",], [ "432", "A", "SER",], [ "433", "A", "SER",], [ "434", "A", "SER",], [ "435", "A", "TRP",], [ "436", "A", "HIS",], [ "437", "A", "THR",], [ "438", "A", "LEU",], [ "439", "A", "PHE",], [ "440", "A", "THR",], [ "441", "A", "ALA",], [ "443", "A", "GLU",], [ "444", "A", "GLY",], [ "500", "A", "PRO",], [ "501", "A", "ASP",],]
+KAK = [ [ "384", "A", "HIS",], [ "385", "A", "ALA",], [ "386", "A", "ARG",], [ "387", "A", "ILE",], [ "388", "A", "LYS",], [ "389", "A", "LEU",], [ "391", "A", "ASN",], [ "395", "A", "TYR",], [ "399", "A", "TRP",], [ "400", "A", "ALA",],]
+KAL = [ [ "318", "A", "LYS",], [ "319", "A", "GLY",], [ "320", "A", "LEU",], [ "321", "A", "GLU",], [ "322", "A", "GLY",], [ "356", "A", "ALA",], [ "358", "A", "ALA",], [ "359", "A", "TYR",], [ "360", "A", "GLN",], [ "361", "A", "SER",], [ "362", "A", "ARG",], [ "363", "A", "ASP",], [ "364", "A", "TYR",], [ "365", "A", "TYR",], [ "366", "A", "ASN",], [ "367", "A", "PHE",], [ "369", "A", "LEU",],]
+KAM = [ [ "400", "A", "ALA",], [ "401", "A", "ALA",], [ "402", "A", "ALA",], [ "417", "A", "ALA",], [ "418", "A", "GLY",], [ "419", "A", "ALA",],]
+KAN = [ [ "402", "A", "ALA",], [ "403", "A", "ALA",], [ "405", "A", "GLN",], [ "406", "A", "CYS",], [ "407", "A", "ARG",], [ "408", "A", "TYR",], [ "414", "A", "LEU",], [ "416", "A", "GLY",], [ "417", "A", "ALA",], [ "418", "A", "GLY",],]
+KAO = [ [ "79", "A", "GLN",], [ "80", "A", "GLN",], [ "81", "A", "GLU",], [ "82", "A", "THR",], [ "83", "A", "SER",], [ "84", "A", "PRO",], [ "86", "A", "GLN",], [ "87", "A", "GLN",], [ "88", "A", "GLN",], [ "89", "A", "GLN",], [ "90", "A", "GLN",], [ "91", "A", "GLN",], [ "92", "A", "GLY",],]
+KAP = [ [ "2", "A", "GLU",], [ "3", "A", "VAL",], [ "4", "A", "GLN",], [ "5", "A", "LEU",], [ "6", "A", "GLY",], [ "7", "A", "LEU",], [ "8", "A", "GLY",], [ "9", "A", "ARG",], [ "10", "A", "VAL",], [ "11", "A", "TYR",], [ "12", "A", "PRO",], [ "13", "A", "ARG",], [ "14", "A", "PRO",], [ "15", "A", "PRO",], [ "16", "A", "SER",], [ "17", "A", "LYS",], [ "18", "A", "THR",],]
+KAQ = [ [ "31", "A", "ARG",], [ "32", "A", "GLU",], [ "33", "A", "VAL",], [ "36", "A", "ASN",], [ "37", "A", "PRO",], [ "38", "A", "GLY",], [ "40", "A", "ARG",],]
+KAR = [ [ "30", "A", "VAL",], [ "31", "A", "ARG",], [ "32", "A", "GLU",], [ "34", "A", "ILE",], [ "35", "A", "GLN",], [ "36", "A", "ASN",],]
+KAS = [ [ "22", "A", "ALA",], [ "26", "A", "LEU",], [ "29", "A", "SER",], [ "30", "A", "VAL",], [ "34", "A", "ILE",], [ "35", "A", "GLN",],]
+KAT = [ [ "211", "A", "ALA",], [ "212", "A", "ARG",], [ "213", "A", "GLU",], [ "293", "A", "SER",], [ "294", "A", "LEU",], [ "295", "A", "LEU",], [ "296", "A", "ASP",],]
+KAU = [ [ "213", "A", "GLU",], [ "214", "A", "ALA",], [ "215", "A", "SER",], [ "216", "A", "GLY",], [ "217", "A", "ALA",], [ "218", "A", "PRO",], [ "279", "A", "VAL",], [ "280", "A", "ARG",], [ "281", "A", "PRO",], [ "282", "A", "THR",], [ "289", "A", "GLU",], [ "290", "A", "CYS",], [ "291", "A", "LYS",], [ "292", "A", "GLY",], [ "293", "A", "SER",], [ "294", "A", "LEU",],]
+KAV = [ [ "217", "A", "ALA",], [ "218", "A", "PRO",], [ "219", "A", "THR",], [ "221", "A", "SER",], [ "222", "A", "LYS",], [ "223", "A", "ASP",], [ "224", "A", "ASN",], [ "225", "A", "TYR",], [ "259", "A", "PRO",], [ "262", "A", "GLN",],]
+
+[RESULTS.FREQUENCY.KAA.RESIDUES]
+ASN = 1
+CYS = 1
+GLY = 1
+HIS = 1
+LEU = 1
+LYS = 1
+MET = 1
+
+[RESULTS.FREQUENCY.KAA.CLASS]
+R1 = 2
+R2 = 0
+R3 = 3
+R4 = 0
+R5 = 2
+RX = 0
+
+[RESULTS.FREQUENCY.KAB.RESIDUES]
+ARG = 1
+ASP = 2
+GLN = 1
+GLU = 1
+GLY = 1
+HIS = 1
+LEU = 1
+LYS = 2
+PHE = 1
+PRO = 2
+THR = 1
+VAL = 1
+
+[RESULTS.FREQUENCY.KAB.CLASS]
+R1 = 5
+R2 = 1
+R3 = 2
+R4 = 3
+R5 = 4
+RX = 0
+
+[RESULTS.FREQUENCY.KAC.RESIDUES]
+ALA = 1
+ASN = 1
+CYS = 1
+GLY = 2
+MET = 1
+PHE = 1
+THR = 1
+
+[RESULTS.FREQUENCY.KAC.CLASS]
+R1 = 3
+R2 = 1
+R3 = 4
+R4 = 0
+R5 = 0
+RX = 0
+
+[RESULTS.FREQUENCY.KAD.RESIDUES]
+ARG = 3
+ASP = 2
+CYS = 1
+GLU = 1
+GLY = 2
+LYS = 2
+PRO = 1
+SER = 2
+TYR = 2
+
+[RESULTS.FREQUENCY.KAD.CLASS]
+R1 = 3
+R2 = 2
+R3 = 3
+R4 = 3
+R5 = 5
+RX = 0
+
+[RESULTS.FREQUENCY.KAE.RESIDUES]
+ALA = 1
+ARG = 1
+GLU = 1
+LEU = 1
+PHE = 1
+THR = 1
+
+[RESULTS.FREQUENCY.KAE.CLASS]
+R1 = 2
+R2 = 1
+R3 = 1
+R4 = 1
+R5 = 1
+RX = 0
+
+[RESULTS.FREQUENCY.KAF.RESIDUES]
+ALA = 1
+ASN = 1
+CYS = 3
+PRO = 1
+SER = 1
+
+[RESULTS.FREQUENCY.KAF.CLASS]
+R1 = 2
+R2 = 0
+R3 = 5
+R4 = 0
+R5 = 0
+RX = 0
+
+[RESULTS.FREQUENCY.KAG.RESIDUES]
+ARG = 3
+ASP = 1
+GLY = 2
+LYS = 1
+MET = 1
+PHE = 1
+PRO = 2
+SER = 2
+TRP = 1
+TYR = 1
+VAL = 1
+
+[RESULTS.FREQUENCY.KAG.CLASS]
+R1 = 5
+R2 = 3
+R3 = 3
+R4 = 1
+R5 = 4
+RX = 0
+
+[RESULTS.FREQUENCY.KAH.RESIDUES]
+ALA = 1
+GLN = 2
+GLU = 1
+GLY = 1
+LEU = 1
+TRP = 1
+TYR = 1
+
+[RESULTS.FREQUENCY.KAH.CLASS]
+R1 = 3
+R2 = 2
+R3 = 2
+R4 = 1
+R5 = 0
+RX = 0
+
+[RESULTS.FREQUENCY.KAI.RESIDUES]
+ALA = 1
+ARG = 1
+ASP = 2
+GLN = 1
+GLU = 1
+GLY = 1
+LEU = 1
+MET = 1
+PHE = 2
+PRO = 2
+SER = 4
+THR = 2
+TRP = 1
+TYR = 1
+VAL = 2
+
+[RESULTS.FREQUENCY.KAI.CLASS]
+R1 = 7
+R2 = 4
+R3 = 8
+R4 = 3
+R5 = 1
+RX = 0
+
+[RESULTS.FREQUENCY.KAJ.RESIDUES]
+ALA = 4
+ASP = 1
+GLU = 1
+GLY = 2
+HIS = 1
+LEU = 1
+PHE = 1
+PRO = 2
+SER = 5
+THR = 2
+TRP = 1
+
+[RESULTS.FREQUENCY.KAJ.CLASS]
+R1 = 9
+R2 = 2
+R3 = 7
+R4 = 2
+R5 = 1
+RX = 0
+
+[RESULTS.FREQUENCY.KAK.RESIDUES]
+ALA = 2
+ARG = 1
+ASN = 1
+HIS = 1
+ILE = 1
+LEU = 1
+LYS = 1
+TRP = 1
+TYR = 1
+
+[RESULTS.FREQUENCY.KAK.CLASS]
+R1 = 4
+R2 = 2
+R3 = 1
+R4 = 0
+R5 = 3
+RX = 0
+
+[RESULTS.FREQUENCY.KAL.RESIDUES]
+ALA = 2
+ARG = 1
+ASN = 1
+ASP = 1
+GLN = 1
+GLU = 1
+GLY = 2
+LEU = 2
+LYS = 1
+PHE = 1
+SER = 1
+TYR = 3
+
+[RESULTS.FREQUENCY.KAL.CLASS]
+R1 = 6
+R2 = 4
+R3 = 3
+R4 = 2
+R5 = 2
+RX = 0
+
+[RESULTS.FREQUENCY.KAM.RESIDUES]
+ALA = 5
+GLY = 1
+
+[RESULTS.FREQUENCY.KAM.CLASS]
+R1 = 6
+R2 = 0
+R3 = 0
+R4 = 0
+R5 = 0
+RX = 0
+
+[RESULTS.FREQUENCY.KAN.RESIDUES]
+ALA = 3
+ARG = 1
+CYS = 1
+GLN = 1
+GLY = 2
+LEU = 1
+TYR = 1
+
+[RESULTS.FREQUENCY.KAN.CLASS]
+R1 = 6
+R2 = 1
+R3 = 2
+R4 = 0
+R5 = 1
+RX = 0
+
+[RESULTS.FREQUENCY.KAO.RESIDUES]
+GLN = 8
+GLU = 1
+GLY = 1
+PRO = 1
+SER = 1
+THR = 1
+
+[RESULTS.FREQUENCY.KAO.CLASS]
+R1 = 2
+R2 = 0
+R3 = 10
+R4 = 1
+R5 = 0
+RX = 0
+
+[RESULTS.FREQUENCY.KAP.RESIDUES]
+ARG = 2
+GLN = 1
+GLU = 1
+GLY = 2
+LEU = 2
+LYS = 1
+PRO = 3
+SER = 1
+THR = 1
+TYR = 1
+VAL = 2
+
+[RESULTS.FREQUENCY.KAP.CLASS]
+R1 = 9
+R2 = 1
+R3 = 3
+R4 = 1
+R5 = 3
+RX = 0
+
+[RESULTS.FREQUENCY.KAQ.RESIDUES]
+ARG = 2
+ASN = 1
+GLU = 1
+GLY = 1
+PRO = 1
+VAL = 1
+
+[RESULTS.FREQUENCY.KAQ.CLASS]
+R1 = 3
+R2 = 0
+R3 = 1
+R4 = 1
+R5 = 2
+RX = 0
+
+[RESULTS.FREQUENCY.KAR.RESIDUES]
+ARG = 1
+ASN = 1
+GLN = 1
+GLU = 1
+ILE = 1
+VAL = 1
+
+[RESULTS.FREQUENCY.KAR.CLASS]
+R1 = 2
+R2 = 0
+R3 = 2
+R4 = 1
+R5 = 1
+RX = 0
+
+[RESULTS.FREQUENCY.KAS.RESIDUES]
+ALA = 1
+GLN = 1
+ILE = 1
+LEU = 1
+SER = 1
+VAL = 1
+
+[RESULTS.FREQUENCY.KAS.CLASS]
+R1 = 4
+R2 = 0
+R3 = 2
+R4 = 0
+R5 = 0
+RX = 0
+
+[RESULTS.FREQUENCY.KAT.RESIDUES]
+ALA = 1
+ARG = 1
+ASP = 1
+GLU = 1
+LEU = 2
+SER = 1
+
+[RESULTS.FREQUENCY.KAT.CLASS]
+R1 = 3
+R2 = 0
+R3 = 1
+R4 = 2
+R5 = 1
+RX = 0
+
+[RESULTS.FREQUENCY.KAU.RESIDUES]
+ALA = 2
+ARG = 1
+CYS = 1
+GLU = 2
+GLY = 2
+LEU = 1
+LYS = 1
+PRO = 2
+SER = 2
+THR = 1
+VAL = 1
+
+[RESULTS.FREQUENCY.KAU.CLASS]
+R1 = 8
+R2 = 0
+R3 = 4
+R4 = 2
+R5 = 2
+RX = 0
+
+[RESULTS.FREQUENCY.KAV.RESIDUES]
+ALA = 1
+ASN = 1
+ASP = 1
+GLN = 1
+LYS = 1
+PRO = 2
+SER = 1
+THR = 1
+TYR = 1
+
+[RESULTS.FREQUENCY.KAV.CLASS]
+R1 = 3
+R2 = 1
+R3 = 4
+R4 = 1
+R5 = 1
+RX = 0
